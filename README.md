@@ -21,3 +21,4 @@
 - [第三章　監督機関（第三十二条―第五十四条）](/chapter3.md#第三章監督機関)
 - [第四章　罰則（第五十五条―第五十八条）](/chapter4.md#第四章罰則)
 - [附則](/supplementary_provision.md#附則昭和二四年五月一六日法律第七十号)
+- [別表](/annexed_table.md#鉱山保安法)
